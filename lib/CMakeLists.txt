@@ -1,0 +1,2 @@
+add_subdirectory(Dialect/LMIR)
+add_subdirectory(Conversion)

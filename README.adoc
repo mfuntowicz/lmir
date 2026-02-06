@@ -1,0 +1,3 @@
+= Language Model Intermediate Representation - LMIR
+
+This repository is a model-definition DSL (Domain Specific Language) proof-of-concept based on modern toolchain as LLVM/MLIR. The goal is to provide most of the high-level operators currently involved in the definition of language models and the ability for a user to define its own modules in a somewhat pythonic way.
